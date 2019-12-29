@@ -1,5 +1,5 @@
 # Web-Design-Challenge
-Homework 11 - Web Design Challenge
+Web Design 
 
 
   https://ejosephsr.github.io/Web-Design-Challenge/.
