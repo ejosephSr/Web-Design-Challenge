@@ -5,5 +5,9 @@
 ## All pages were developed to resize layout, which means, based on the browser size, the page shows a different layout.
 ## Besides Boostrap there is another style.css which gives more personality for this web dashboard
 
+### Converting CSV file to Pandas data frame:
+
+![](images/notebook.png)
+
 
   https://ejosephsr.github.io/Web-Design-Challenge/.
