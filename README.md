@@ -7,7 +7,28 @@
 
 ### Converting CSV file to Pandas data frame:
 
-![](images/notebook.png)
+![](Resources/images/notebook.png)
+
+## Converting HTML tables to dataframe:
+
+![](Resources/images/html.png)
+
+## Data-set display after HTLM concversion:
+
+![](Resources/images/data.png)
+
+### Webpages Layout:
+
+## The below display when the browser is in a desktop layout.
+
+![](Resources/images/web.png)
 
 
-  https://ejosephsr.github.io/Web-Design-Challenge/.
+
+### Features:
+## HTML
+## CSS with Bootstrap 4
+## Jupyter Notebook
+## Python with Pandas
+
+  ## Link to the webpage: https://ejosephsr.github.io/Web-Design-Challenge/.
